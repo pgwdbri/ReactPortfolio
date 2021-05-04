@@ -1,12 +1,14 @@
 import react from 'react';
+//components
+import MyNavbar from "./components/mynavbar/mynavbar.component";
 import './App.css';
 
 const App = () => {
-  return (
-    <div className="App">
-      My Portfolio: 
-    </div>
-  );
+  return (<div>
+    <MyNavbar />
+
+
+      My Portfolio: </div>);
 }
 
 export default App;
