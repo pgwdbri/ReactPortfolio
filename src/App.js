@@ -1,17 +1,20 @@
-import react from 'react';
+import React from 'react';
 //components
 import MyNavbar from "./components/mynavbar/mynavbar.component";
 import './App.css';
 import FooterPanel from './components/mynavbar/myfooter.component';
 
+import MyBody from './components/mybody/mybody.component';
+
 const App = () => {
   return (<div>
     <MyNavbar />
 
+    <MyBody />
     
 
     <FooterPanel />
-      My Portfolio: </div>);
+    </div>);
 }
 
 export default App;
