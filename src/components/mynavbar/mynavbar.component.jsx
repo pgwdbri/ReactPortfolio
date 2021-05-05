@@ -14,7 +14,9 @@ const MyNavbar = () => {
                     <Nav.Link href="#contact">Contact</Nav.Link>
                 </Nav>
                 <Nav>
-                    <Nav.Link href="#github">Github</Nav.Link>
+                    <Nav.Link href="https://github.com/pgwdbri/BudgetTracker">Github</Nav.Link>
+                    <Nav.Link href="https://linkedin.com">Linkedin</Nav.Link>
+                    
                     
                 </Nav>
                 </Navbar.Collapse>

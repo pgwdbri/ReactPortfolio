@@ -1,4 +1,5 @@
-.body-style {
-    background-color: grey;
-    border: 2px solid #101018f8;
+.img {
+
+    max-width: 100px;
+    max-height: 100px;
 }
