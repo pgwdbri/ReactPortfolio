@@ -6,6 +6,8 @@ import FooterPanel from './components/mynavbar/myfooter.component';
 
 import MyBody from './components/mybody/mybody.component';
 
+// PORTFOLIO - content
+
 const App = () => {
   return (<div>
     <MyNavbar />
